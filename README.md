@@ -2,7 +2,7 @@
 
 ## Description
 
-### A simple & Full responsive React application that customers are allowed to add the foods they want to order to the basket and it works to keep track of all the added foods in terms of price and number.
+#### A simple & Full responsive React application that customers are allowed to add the foods they want to order to the basket and it works to keep track of all the added foods in terms of price and number.
 The available foods are presented in a beautiful and convenient way for the user.
 
 ## Cloning and Running the Application in local
@@ -11,11 +11,11 @@ The available foods are presented in a beautiful and convenient way for the user
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-### npm install
+##### npm install
 
 ### In order to run the application Type the following command
 
-### npm start
+##### npm start
 
 ### The Application Runs on localhost:3000
 
