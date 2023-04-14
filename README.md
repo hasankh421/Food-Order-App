@@ -11,12 +11,12 @@ The available foods are presented in a beautiful and convenient way for the user
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-![npminstall](https://user-images.githubusercontent.com/102171363/232160912-65213105-8a3b-4c81-bcb2-b69a5602fa44.png)
+##### npm install
 
 
 ### In order to run the application Type the following command
 
-![npmstart](https://user-images.githubusercontent.com/102171363/232160959-eca9e250-3cab-4d63-991c-281fa9d361e2.png)
+##### npm start
 
 ### The Application Runs on localhost:3000
 
